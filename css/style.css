@@ -2,13 +2,39 @@
     margin:0;
     padding:0;
 }
+#title{
+  font-size: 3em;
+  text-align: center;
+}
+
+#img-div{
+  max-width: 50%;
+  display: block;
+  margin: auto;
+}
 
 #image{
     max-width: 100%;
     height: auto;
     display: block;
-    margin: auto;    
+    margin: auto;
 }
 
+#tribute-info{
+  font-size: 20px;
+  font-style: oblique;
 
-
+}
+p{
+  color: blue;
+}
+#img-caption{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+#tribute-link{
+  font-size: 2em;
+  display: block;
+  
+}
